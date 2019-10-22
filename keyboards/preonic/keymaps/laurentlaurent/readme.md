@@ -1,5 +1,6 @@
 # laurentlaurent's Preonic keyboard
 Largely similar to his [ErgoDox EZ](https://configure.ergodox-ez.com/ergodox-ez/layouts/jZpmo/latest/0)'s layout
+Git Best Practices [Link](https://docs.qmk.fm/#/newbs_best_practices?id=your-fork39s-master-update-often-commit-never)
 
 ## Features
 
