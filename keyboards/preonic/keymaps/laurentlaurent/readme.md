@@ -4,6 +4,8 @@ Git Best Practices [Link](https://docs.qmk.fm/#/newbs_best_practices?id=your-for
 
 ## Features
 
+* Should be iPad Pro compatible
+
 ### Special Modifiers for Global Shortcuts
 * Hyper key (Ctrl+Alt+Cmd+Shift)
 * CAG key (Ctrl+Alt+Cmd)

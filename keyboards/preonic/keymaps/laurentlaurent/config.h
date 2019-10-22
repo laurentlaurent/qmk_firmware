@@ -39,3 +39,6 @@
 // Fix Home Row mod keys
 #define IGNORE_MOD_TAP_INTERRUPT
 //#define RETRO_TAPPING
+
+// For iPad Pro compatibility
+#define USB_MAX_POWER_CONSUMPTION 100
